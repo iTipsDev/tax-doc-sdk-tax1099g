@@ -1,0 +1,64 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "55-559-2658",
+  "taxFormId" : "2999972",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0409326",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kuphal, Bashirian and Smith"
+    },
+    "address" : {
+      "line1" : "10403 Pete Rapid",
+      "city" : "Schinnerberg",
+      "region" : "CT",
+      "postalCode" : "02230"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rubie.hilpert@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-80-7165",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Gladys",
+      "last" : "Feil"
+    },
+    "address" : {
+      "line1" : "53643 Dooley Flat",
+      "city" : "West Samanthamouth",
+      "region" : "HI",
+      "postalCode" : "02667"
+    },
+    "email" : "cortney.wehner@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "192-49466-8",
+  "unemploymentCompensation" : 200,
+  "taxRefund" : 300,
+  "refundYear" : 400,
+  "federalTaxWithheld" : 500,
+  "rtaaPayments" : 600,
+  "grants" : 700,
+  "agriculturePayments" : 800,
+  "businessIncome" : true,
+  "marketGain" : 900,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1000,
+      "taxId" : "04-628464",
+      "income" : 1100
+    },
+    "local" : {
+      "taxWithheld" : 1200,
+      "localityName" : "Hopeport",
+      "income" : 1300
+    }
+  } ],
+  "secondTinNotice" : true
+}
