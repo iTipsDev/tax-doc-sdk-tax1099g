@@ -1,0 +1,64 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "50-103-8137",
+  "taxFormId" : "6007323",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0409326",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kuphal, Bashirian and Smith"
+    },
+    "address" : {
+      "line1" : "10403 Pete Rapid",
+      "city" : "Schinnerberg",
+      "region" : "CT",
+      "postalCode" : "02230"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rubie.hilpert@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-20-5162",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Luz",
+      "last" : "Hills"
+    },
+    "address" : {
+      "line1" : "8312 Ondricka Forge",
+      "city" : "North Duncan",
+      "region" : "IA",
+      "postalCode" : "95759"
+    },
+    "email" : "nicolas.renner@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "036-98891-5",
+  "unemploymentCompensation" : 200,
+  "taxRefund" : 300,
+  "refundYear" : 400,
+  "federalTaxWithheld" : 500,
+  "rtaaPayments" : 600,
+  "grants" : 700,
+  "agriculturePayments" : 800,
+  "businessIncome" : true,
+  "marketGain" : 900,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1000,
+      "taxId" : "41-554356",
+      "income" : 1100
+    },
+    "local" : {
+      "taxWithheld" : 1200,
+      "localityName" : "Gerlachstad",
+      "income" : 1300
+    }
+  } ],
+  "secondTinNotice" : true
+}

@@ -1,0 +1,64 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "55-021-1350",
+  "taxFormId" : "1649086",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0409326",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kuphal, Bashirian and Smith"
+    },
+    "address" : {
+      "line1" : "10403 Pete Rapid",
+      "city" : "Schinnerberg",
+      "region" : "CT",
+      "postalCode" : "02230"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "rubie.hilpert@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-50-8379",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Benedict",
+      "last" : "Ritchie"
+    },
+    "address" : {
+      "line1" : "401 Christal Dale",
+      "city" : "North Willodean",
+      "region" : "WI",
+      "postalCode" : "55116"
+    },
+    "email" : "roselle.mohr@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "189-50775-6",
+  "unemploymentCompensation" : 200,
+  "taxRefund" : 300,
+  "refundYear" : 400,
+  "federalTaxWithheld" : 500,
+  "rtaaPayments" : 600,
+  "grants" : 700,
+  "agriculturePayments" : 800,
+  "businessIncome" : true,
+  "marketGain" : 900,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1000,
+      "taxId" : "85-175985",
+      "income" : 1100
+    },
+    "local" : {
+      "taxWithheld" : 1200,
+      "localityName" : "Janieceland",
+      "income" : 1300
+    }
+  } ],
+  "secondTinNotice" : true
+}
