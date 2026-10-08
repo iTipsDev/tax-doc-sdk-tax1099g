@@ -1,0 +1,73 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "28-659-6555",
+  "taxFormId" : "9858910",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0449049",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rowe-Schaden"
+    },
+    "address" : {
+      "line1" : "306 Anibal Summit",
+      "city" : "South Michaele",
+      "region" : "MO",
+      "postalCode" : "43041",
+      "unitType" : "Apt",
+      "unitNumber" : "824"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "laquita.thiel@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-56-8140",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Alva",
+      "middle" : "Effie",
+      "last" : "Hettinger"
+    },
+    "businessName" : {
+      "name1" : "Huels, Thompson and Zulauf"
+    },
+    "address" : {
+      "line1" : "2384 Schmidt Union",
+      "city" : "New Cristiefort",
+      "region" : "WA",
+      "postalCode" : "14746",
+      "unitType" : "Apt",
+      "unitNumber" : "472"
+    },
+    "email" : "buster.schmitt@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "116-35203-9",
+  "unemploymentCompensation" : 200,
+  "taxRefund" : 300,
+  "refundYear" : 400,
+  "federalTaxWithheld" : 500,
+  "rtaaPayments" : 600,
+  "grants" : 700,
+  "agriculturePayments" : 800,
+  "businessIncome" : true,
+  "marketGain" : 900,
+  "familyLeaveBenefits" : 1000,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1100,
+      "taxId" : "33-070463",
+      "income" : 1200
+    },
+    "local" : {
+      "taxWithheld" : 1300,
+      "localityName" : "Lake Odis",
+      "income" : 1400
+    }
+  } ],
+  "secondTinNotice" : true
+}

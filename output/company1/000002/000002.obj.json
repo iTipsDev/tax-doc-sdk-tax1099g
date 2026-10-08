@@ -1,0 +1,73 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "60-255-4176",
+  "taxFormId" : "6802448",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0449049",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rowe-Schaden"
+    },
+    "address" : {
+      "line1" : "306 Anibal Summit",
+      "city" : "South Michaele",
+      "region" : "MO",
+      "postalCode" : "43041",
+      "unitType" : "Apt",
+      "unitNumber" : "824"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "laquita.thiel@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-64-2657",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Danilo",
+      "middle" : "Patty",
+      "last" : "Jast"
+    },
+    "businessName" : {
+      "name1" : "Mraz-Hane"
+    },
+    "address" : {
+      "line1" : "7271 Eugene Mountains",
+      "city" : "Hansenfurt",
+      "region" : "IA",
+      "postalCode" : "51783",
+      "unitType" : "Apt",
+      "unitNumber" : "442"
+    },
+    "email" : "bud.tillman@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "176-06806-2",
+  "unemploymentCompensation" : 200,
+  "taxRefund" : 300,
+  "refundYear" : 400,
+  "federalTaxWithheld" : 500,
+  "rtaaPayments" : 600,
+  "grants" : 700,
+  "agriculturePayments" : 800,
+  "businessIncome" : true,
+  "marketGain" : 900,
+  "familyLeaveBenefits" : 1000,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1100,
+      "taxId" : "56-840123",
+      "income" : 1200
+    },
+    "local" : {
+      "taxWithheld" : 1300,
+      "localityName" : "Clementinaville",
+      "income" : 1400
+    }
+  } ],
+  "secondTinNotice" : true
+}

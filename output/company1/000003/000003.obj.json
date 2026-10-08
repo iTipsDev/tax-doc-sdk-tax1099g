@@ -1,0 +1,73 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "81-649-4735",
+  "taxFormId" : "1439007",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0449049",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rowe-Schaden"
+    },
+    "address" : {
+      "line1" : "306 Anibal Summit",
+      "city" : "South Michaele",
+      "region" : "MO",
+      "postalCode" : "43041",
+      "unitType" : "Apt",
+      "unitNumber" : "824"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "laquita.thiel@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-23-5746",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Audie",
+      "middle" : "Tifany",
+      "last" : "Thiel"
+    },
+    "businessName" : {
+      "name1" : "Daniel, Heidenreich and Rogahn"
+    },
+    "address" : {
+      "line1" : "566 Jerde Islands",
+      "city" : "Elsiestad",
+      "region" : "NV",
+      "postalCode" : "18397",
+      "unitType" : "Apt",
+      "unitNumber" : "073"
+    },
+    "email" : "marylynn.bins@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "587-32286-5",
+  "unemploymentCompensation" : 200,
+  "taxRefund" : 300,
+  "refundYear" : 400,
+  "federalTaxWithheld" : 500,
+  "rtaaPayments" : 600,
+  "grants" : 700,
+  "agriculturePayments" : 800,
+  "businessIncome" : true,
+  "marketGain" : 900,
+  "familyLeaveBenefits" : 1000,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1100,
+      "taxId" : "79-638650",
+      "income" : 1200
+    },
+    "local" : {
+      "taxWithheld" : 1300,
+      "localityName" : "West Seymour",
+      "income" : 1400
+    }
+  } ],
+  "secondTinNotice" : true
+}
